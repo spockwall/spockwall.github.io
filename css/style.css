@@ -257,7 +257,7 @@ body {
 .hero-subtitle {
     font-size: 15px;
     line-height: 1.6;
-    color: var(--text-soft);
+    color: var(--text);
     max-width: 40rem;
     margin-bottom: 18px;
 }
